@@ -1,0 +1,12 @@
+# Preprocesamiento de Ciencia de Datos
+
+## Objetivo
+Implementar técnicas de preprocesamiento de datos usando Python y Pandas, además de gestionar versiones con Git y GitHub.
+
+## Estructura del proyecto
+
+- data/                # Dataset
+- src/                 # Código fuente
+- preprocesamiento.py  # Script principal
+- README.md
+- DOCUMENTACION.md
