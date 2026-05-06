@@ -1,12 +1,7 @@
-# Preprocesamiento de Ciencia de Datos
+git init
+git add .
+git commit -m "Commit inicial con README y gitignore"
+git branch -M main
+git remote add origin https://github.com/tu_usuario/preprocesamiento-ciencia-datos.git
+git push -u origin main
 
-## Objetivo
-Implementar técnicas de preprocesamiento de datos usando Python y Pandas, además de gestionar versiones con Git y GitHub.
-
-## Estructura del proyecto
-
-- data/                # Dataset
-- src/                 # Código fuente
-- preprocesamiento.py  # Script principal
-- README.md
-- DOCUMENTACION.md
